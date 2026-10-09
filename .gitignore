@@ -1,0 +1,5 @@
+target/
+*.class
+*.log
+nbproject/
+.DS_Store
